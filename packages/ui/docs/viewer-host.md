@@ -29,7 +29,7 @@ tickets and cache identity.
 
 A host passes no tolerance to the STEP renderer: it draws each part at the display mesh its
 part's record names, which cadgen derived at its display tolerance
-([the display mesh](loading.md#1-the-display-mesh)).
+([where a model starts](lod.md#1-where-a-model-starts)).
 
 Apps create services for the workspace lifetime. File tabs borrow them, while
 mounted renderers own scenes, document controllers and temporary resource leases.
